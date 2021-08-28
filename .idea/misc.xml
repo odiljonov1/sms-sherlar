@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Smssherlar2/app/src/main/res/drawable/ic_back.xml" value="0.2101851851851852" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/drawable/ic_card_saqlanganlar.xml" value="0.2101851851851852" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/drawable/ic_card_yangilar.xml" value="0.2101851851851852" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/drawable/ic_copy.xml" value="0.2101851851851852" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/drawable/ic_do_stlik_sh.xml" value="0.709375" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/drawable/ic_hazil_sherlar.xml" value="0.2101851851851852" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/drawable/ic_love.xml" value="0.2101851851851852" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/drawable/ic_new_like.xml" value="0.2101851851851852" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/drawable/ic_ota_ona_haqida_sh.xml" value="0.2101851851851852" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/drawable/ic_saqlanganlar.xml" value="0.2101851851851852" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/drawable/ic_sevgi_sh.xml" value="0.2101851851851852" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/drawable/ic_share.xml" value="0.2101851851851852" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/drawable/ic_sher_saqlanganda.xml" value="0.2101851851851852" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/drawable/ic_sms.xml" value="0.2101851851851852" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/drawable/ic_sms_logo.xml" value="0.2101851851851852" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/drawable/ic_sog_inch_armon.xml" value="0.2101851851851852" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/drawable/ic_tabrik_sherlar.xml" value="0.2101851851851852" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/drawable/ic_yangilar.xml" value="0.2101851851851852" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/layout/activity_main.xml" value="0.1859375" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/layout/dialog_view.xml" value="0.2" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/layout/fragment_list.xml" value="0.2" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/layout/item_dialog_sms_logo.xml" value="0.2" />
+        <entry key="..\:/Smssherlar2/app/src/main/res/layout/item_rv.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
